@@ -7,3 +7,4 @@ Binary search problems -
     1. Corner cases.
     2. Dry run with corner cases
     3. Try to find out search space first.
+3. First and last occurence of the Element in sorted array
